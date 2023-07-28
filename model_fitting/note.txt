@@ -1,0 +1,18 @@
+Model code:
+M4_4 = Forgetting, WM influence MB, RPE influence MF, M-refresher
+M4_9 = Non-forgetting, WM influence MB, RPE influence MF, M-refresher
+M2_4_4 = Forgetting, WM influence MB + MF, RPE influence MB + MF, M-refresher
+M2_4_9 = Non-forgetting, WM influence MB + MF, RPE influence MB + MF, M-refresher
+M3_4_4 = Forgetting, WM influence MB, RPE influence MB + MF, M-refresher
+M3_4_9 = Non-forgetting, WM influence MB, RPE influence MB + MF, M-refresher
+
+M21_4_4 = Forgetting, WM influence MB, RPE influence MF, M-sampler
+M21_4_9 = Non-forgetting, WM influence MB, RPE influence MF, M-sampler
+M21_2_4_4 = Forgetting, WM influence MB + MF, RPE influence MB + MF, M-sampler
+M21_2_4_9 = Non-forgetting, WM influence MB + MF, RPE influence MB + MF, M-sampler
+M21_3_4_4 = Forgetting, WM influence MB, RPE influence MB + MF, M-sampler
+M21_3_4_9 = Non-forgetting, WM influence MB, RPE influence MB + MF, M-sampler
+
+M0_0 = Non-Forgetting,RPE influence MB + MF, M-RPE
+
+WSLS = win-stay-lose-shift
